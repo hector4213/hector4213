@@ -23,7 +23,7 @@ Hey its me Hector and im going to write something here
 
 ### Tools
 
-[<img src='icons/mocha.png' height='60'>]() [<img src='icons/chai.png' height='60'>]() [<img src='icons/git.png' height='60'>]() [<img src='icons/github.png' height='60'>]() [<img src='icons/vscode.png' height='60'>]() [<img src='icons/command-line.png' height='60'>]()
+[<img src='icons/mocha.png' height='60'>]() [<img src='icons/chai.png' height='60'>]() [<img src='icons/git.png' height='60'>]() [<img src='icons/github.png' height='60'>]() [<img src='icons/vscode.png' height='60'>]() [<img src='icons/command-line.png' height='60'>]() [<img src='/icons/slack.png' alt='slack' height='60'>]()
 
 ### Environments and Deploying projects
 
