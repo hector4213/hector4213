@@ -6,7 +6,9 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+### Languages/Frameworks I'm good at:
+
+[<img src='/icons/javascript.png' alt='github' height='40'>]()[<img src='/icons/node.png' alt='linkedin' height='40'>]() [<img src='/icons/react.pn g'height='40'>]()
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Ruby
