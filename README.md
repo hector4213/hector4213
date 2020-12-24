@@ -8,7 +8,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ### Front-end Frameworks I'm good at:
 
-[<img src='/icons/js.png' alt='github' height='40'>]() [<img src='/icons/react.png'height='40'>]() [<img src='/icons/redux.png 'height='40'>]() [<img src='/icons/react.png'height='40'>]()
+[<img src='/icons/js.png' alt='github' height='40'>]() [<img src='/icons/react.png' height='40'>]() [<img src='/icons/redux.png' height='40'>]() [<img src='/icons/react.png' height='40'>]()
 
 ### Back-end Frameworks I'm good at:
 
