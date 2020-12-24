@@ -15,7 +15,7 @@ Hey its me Hector and im going to write something here
 
 ### Front-end Frameworks I'm good at:
 
-[<img src='/icons/js.png' alt='javascript' height='60'>]() [<img src='/icons/react.png' alt='react' height='60'>]() [<img src='/icons/redux.png' alt='redux' height='60'>]() [<img src='/icons/html.png' alt='github' height='60'>]() [<img src='/icons/css3.png' alt='css' height='60'>]()
+[<img src='/icons/js.png' alt='javascript' height='60'>]() [<img src='/icons/react.png' alt='react' height='60'>]() [<img src='/icons/gatsby.png' alt='gatsby' height='60'>]() [<img src='/icons/redux.png' alt='redux' height='60'>]() [<img src='/icons/html.png' alt='github' height='60'>]() [<img src='/icons/css3.png' alt='css' height='60'>]()
 
 ### Back-end Frameworks I'm good at:
 
@@ -27,7 +27,7 @@ Hey its me Hector and im going to write something here
 
 ### Environments and Deploying projects
 
-[<img src='icons/ubuntu.png' height='60'>]() [<img src='icons/heroku.png' height='60'>]()
+[<img src='icons/ubuntu.png' height='60'>]() [<img src='icons/netlify.png' height='60'>]() [<img src='icons/heroku.png' height='60'>]()
 
 ### Currently learning
 
