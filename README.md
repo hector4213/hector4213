@@ -15,7 +15,7 @@ Hey its me Hector and im going to write something here
 
 ### Front-end Frameworks/Languages I'm good at:
 
-[<img src='/icons/js.png' alt='javascript' height='45'>]() [<img src='/icons/ecmascript.png' alt='javascript' height='45'>]() [<img src='/icons/react.png' alt='react' height='45'>]() [<img src='/icons/gatsby.png' alt='gatsby' height='45'>]() [<img src='/icons/redux.png' alt='redux' height='45'>]() [<img src='/icons/html.png' alt='github' height='45'>]() [<img src='/icons/css3.png' alt='css' height='45'>]()
+[<img src='/icons/js.png' alt='javascript' height='45'>]() [<img src='/icons/ecmascript.png' alt='es6' height='45'>]() [<img src='/icons/react.png' alt='react' height='45'>]() [<img src='/icons/gatsby.png' alt='gatsby' height='45'>]() [<img src='/icons/redux.png' alt='redux' height='45'>]() [<img src='/icons/html.png' alt='github' height='45'>]() [<img src='/icons/css3.png' alt='css' height='45'>]()
 
 ### Back-end Frameworks I'm good at:
 
