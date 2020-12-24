@@ -13,13 +13,16 @@ Hey its me Hector and im going to write something here
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm trained as a Nurse and still work as one
 
-### Front-end Frameworks/Languages I'm good at:
+### Languages I love
 
-[<img src='/icons/js.png' alt='javascript' height='45'>]() [<img src='/icons/ecmascript.png' alt='es6' height='45'>]() [<img src='/icons/react.png' alt='react' height='45'>]() [<img src='/icons/gatsby.png' alt='gatsby' height='45'>]() [<img src='/icons/redux.png' alt='redux' height='45'>]() [<img src='/icons/html.png' alt='github' height='45'>]() [<img src='/icons/css3.png' alt='css' height='45'>]()
+[<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]() [<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>]() [<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>]() [<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>]() [<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>]() [<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>]()
 
-### Back-end Frameworks I'm good at:
+### Enjoyable Frameworks:
 
-[<img src='icons/node.png' height='45'>]() [<img src='/icons/express.png' height='45'>]() [<img src='/icons/postgres.png' height='45'>]()
+[<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>]() [<img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>]()  [<imgsrc="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>]() 
+
+
+
 
 ### Tools
 
@@ -27,7 +30,7 @@ Hey its me Hector and im going to write something here
 
 ### Environments and Deploying projects
 
-[<img src='icons/ubuntu.png' height='45'>]() [<img src='icons/netlify.png' height='45'>]() [<img src='icons/heroku.png' height='45'>]()
+
 
 ### Currently learning
 
