@@ -32,4 +32,4 @@ Find me on [<a href="https://www.linkedin.com/in/hector-clara-14b90118/"><img sr
 
 [<img src='icons/ruby.png' height='45'>]() [<img src='icons/rails.png' height='45'>]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector4213&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector4213&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
