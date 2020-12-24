@@ -13,7 +13,7 @@ Hey its me Hector and im going to write something here
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm trained as a Nurse and still work as one
 
-### Front-end Frameworks I'm good at:
+### Front-end Frameworks/Languages I'm good at:
 
 [<img src='/icons/js.png' alt='javascript' height='45'>]() [<img src='/icons/ecmascript.png' alt='javascript' height='45'>]() [<img src='/icons/react.png' alt='react' height='45'>]() [<img src='/icons/gatsby.png' alt='gatsby' height='45'>]() [<img src='/icons/redux.png' alt='redux' height='45'>]() [<img src='/icons/html.png' alt='github' height='45'>]() [<img src='/icons/css3.png' alt='css' height='45'>]()
 
