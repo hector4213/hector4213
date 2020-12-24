@@ -33,4 +33,4 @@ Hey its me Hector and im going to write something here
 
 [<img src='icons/ruby.png' height='40'>]() [<img src='icons/rails.png' height='40'>]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector4213)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector4213&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
