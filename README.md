@@ -8,7 +8,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ### Languages/Frameworks I'm good at:
 
-[<img src='/icons/javascript.png' alt='github' height='40'>]()[<img src='/icons/node.png' alt='linkedin' height='40'>]() [<img src='/icons/react.pn g'height='40'>]()
+()[<img src='/icons/javascript.png' alt='github' height='40'>]()[<img src='/icons/node.png' alt='linkedin' height='40'>]() [<img src='/icons/react.pn g'height='40'>]()
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Ruby
@@ -18,7 +18,5 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 📫 How to reach me: hectorpwns@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm trained as a Nurse and still work as one
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hector4213) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hector-clara/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.hectorclara.ca)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector4213)](https://github.com/anuraghazra/github-readme-stats)
