@@ -6,9 +6,21 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-### Languages/Frameworks I'm good at:
+### Front-end Frameworks I'm good at:
 
-[<img src='/icons/javascript.png' height='40'>]()[<img src='/icons/react.png 'height='40'>]()[<img src='/icons/react.png 'height='40'>]()[<img src='/icons/redux.png 'height='40']()[<img src='/icons/node.png 'height='40'>]()[<img src='/icons/express.png 'height='40'>]()[<img src='/icons/postgres.png 'height='40'>]()
+[<img src='/icons/js.png' alt='github' height='40'>]() [<img src='/icons/react.png'height='40'>]() [<img src='/icons/redux.png 'height='40'>]() [<img src='/icons/react.png'height='40'>]()
+
+### Back-end Frameworks I'm good at:
+
+[<img src='icons/node.png' height='40'>]() [<img src='/icons/express.png'height='40'>]() [<img src='/icons/postgres.png'height='40'>]()
+
+### Tools
+
+[<img src='icons/git.png' height='40'>]() [<img src='icons/github.png' height='40'>]() [<img src='icons/heroku.png' height='40'>]()
+
+### Environments and Deploying projects
+
+[<img src='icons/ubuntu.png' height='40'>]() [<img src='icons/heroku.png' height='40'>]()
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning Ruby
