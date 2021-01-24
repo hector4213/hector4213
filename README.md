@@ -2,16 +2,16 @@
 
 ### Hola 👋, Im Hector
 
-Hey its me Hector and im going to write something here
+Nice to meet ya! I have a passion for code, solving problems. I'm friendly, love to learn new things and always try and keep an open mind. You never know what you might learn from others so its best to listen!
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning Ruby and Rails
 - 👯 I’m looking to collaborate on anything javascript!
-- 🤔 I’m looking for help with finding a web dev role
+- 🤔 I’m looking for help with finding a developer position
 - 💬 Ask me about myself or my code
 - 📫 How to reach me: hectorpwns@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm trained as a Nurse and still work as one
+- ⚡ Fun fact: I am a proud owner of an MPC and enjoy sampling and making beats on my free time(i have none right now)
 
 Find me on [<a href="https://www.linkedin.com/in/hector-clara-14b90118/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]()
 
