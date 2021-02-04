@@ -1,6 +1,6 @@
 ![A Full-Stack Web Devloper](/banner/banner.png)
 
-### Hola 👋, Im Hector
+### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, Im Hector
 
 Nice to meet ya! I have a passion for code, solving problems. I'm friendly, love to learn new things and always try and keep an open mind. You never know what you might learn from others so its best to listen!
 
