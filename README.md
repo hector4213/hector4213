@@ -15,7 +15,7 @@ Nice to meet ya! I have a passion for code, solving problems. I'm friendly, love
 
 Find me on [<a href="https://www.linkedin.com/in/hector-clara-14b90118/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]()
 
-Read my articles on <a href="https://dev.to/hector4213"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
+Read my articles on <a href="https://dev.to/hector4213"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a>
 
 ### Languages I love
 
