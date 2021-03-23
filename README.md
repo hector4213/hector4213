@@ -4,8 +4,8 @@
 
 Nice to meet ya! I have a passion for code, solving problems. I'm friendly, love to learn new things and always try and keep an open mind. You never know what you might learn from others so its best to listen!
 
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning Ruby and Rails
+- 🔭 I’m currently working on personal projects a Coronavirus app if ya really wanna know
+- 🌱 I’m currently growing my skills and actively searching for a Dev role
 - 👯 I’m looking to collaborate on anything javascript!
 - 🤔 I’m looking for help with finding a developer position
 - 💬 Ask me about myself or my code
