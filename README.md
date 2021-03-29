@@ -32,6 +32,6 @@ Read my articles on <a href="https://dev.to/hector4213"><img src="https://img.sh
 
 ### Currently learning
 
-[<img src='icons/ruby.png' height='45'>]() [<img src='icons/rails.png' height='45'>]()
+[<img src='https://elixir-lang.org/images/logo/logo.png' height='45'>]() 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector4213&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
