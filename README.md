@@ -31,6 +31,6 @@ Read my articles on <a href="https://dev.to/hector4213"><img src="https://img.sh
 
 ### Currently learning
 
-[<img src='https://elixir-lang.org/images/logo/logo.png' height='45'>]() [<img src='https://fullstackphoenix.com/images/phoenix-bcd92d6eab83c07e921cb06c8121321a.png' height='45'>]() 
+[<img src='https://img.icons8.com/color/344/golang.png' height='100'>]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hector4213&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
