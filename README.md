@@ -6,7 +6,7 @@ Nice to meet ya! I have a passion for code (yeayea we all heard this before). I'
 
 - 🔭 I’m a happy Developer at [Jiffy](https://jiffyondemand.com/) 
 - 📫 How to reach me: hectorpwns@gmail.com
-- ⚡ Fun fact: I am a proud owner of an MPC and enjoy sampling and making beats on my free time(i have none right now)
+- 📓 *"Without commitment, you’ll never start, but more importantly, without consistency, you’ll never finish."*
 
 
 ### Languages
