@@ -2,10 +2,10 @@
 
 ### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, Im Hector
 
-Nice to meet ya! I have a passion for code (yeayea we all heard this before). I'm friendly, love to learn new things and always try and keep an open mind. 
+Nice to meet ya! I have a passion for code (yeayea we all heard this before). Blackbelt in Google-Fu.
 
 - 🔭 I’m a happy Developer at [Jiffy](https://jiffyondemand.com/) 
-- 📫 How to reach me: hectorpwns@gmail.com
+- 📫 Reach me on [Telegram](https://t.me/hectoriousz)
 - 📓 *"Without commitment, you’ll never start, but more importantly, without consistency, you’ll never finish."*
 
 
